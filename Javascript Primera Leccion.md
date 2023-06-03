@@ -98,5 +98,30 @@ Como tarea adicional, te invito a que modifiques el código del juego "Adivina e
   - Si intentos es mayor que 10, muestra un mensaje como: "Adivinaste el número en [intentos] intentos. Sigue practicando, ¡el siguiente desafío te espera!".
 - Ejecuta el código y verifica si los mensajes se muestran correctamente según la cantidad de intentos.
 
+### Nota:
+Para incrementar el valor de una variable en JavaScript, podemos utilizar el operador de incremento ++. Por ejemplo:
+
+```javascript
+var variable = 0;
+variable++; // variable es igual a 1
+variable++; // variable es igual a 2
+```
+
+También podemos utilizar el operador += para incrementar el valor de una variable. Por ejemplo:
+
+```javascript
+var variable = 0;
+variable += 1; // variable es igual a 1
+variable += 1; // variable es igual a 2
+```
+
+o simplemente sobreescribir el valor de la variable. Por ejemplo:
+
+```javascript
+var variable = 0;
+variable = variable + 1; // variable es igual a 1
+variable = variable + 1; // variable es igual a 2
+```
+
 Recuerda que puedes experimentar y agregar tus propios mensajes personalizados relacionados con el acto de adivinar. ¡Diviértete programando y sigue practicando tus habilidades en JavaScript!
 No dudes en consultar si tienes alguna pregunta adicional. ¡Buena suerte!
