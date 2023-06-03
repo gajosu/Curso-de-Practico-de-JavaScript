@@ -85,7 +85,7 @@ console.log("¡Felicitaciones! Adivinaste el número correctamente.");
 
 ¡Felicidades! Has completado el ejercicio "Adivina el número" en JavaScript. Puedes experimentar con el código y agregar características adicionales, como contar los intentos o establecer límites de intentos.
 
-¡Tarea Adicional!
+## ¡Tarea Adicional!
 
 Como tarea adicional, te invito a que modifiques el código del juego "Adivina el número" para implementar un sistema de conteo de intentos y mensajes personalizados relacionados con el acto de adivinar. Aquí tienes algunos pasos que puedes seguir:
 
