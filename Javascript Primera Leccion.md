@@ -85,6 +85,18 @@ console.log("¡Felicitaciones! Adivinaste el número correctamente.");
 
 ¡Felicidades! Has completado el ejercicio "Adivina el número" en JavaScript. Puedes experimentar con el código y agregar características adicionales, como contar los intentos o establecer límites de intentos.
 
-Recuerda practicar y experimentar con los conceptos aprendidos para fortalecer tus habilidades de programación en JavaScript.
+¡Tarea Adicional!
 
-¡Diviértete programando y sigue aprendiendo!
+Como tarea adicional, te invito a que modifiques el código del juego "Adivina el número" para implementar un sistema de conteo de intentos y mensajes personalizados relacionados con el acto de adivinar. Aquí tienes algunos pasos que puedes seguir:
+
+- Crea una variable llamada intentos e inicialízala en 0 antes del bucle while.
+- Incrementa el valor de intentos en cada iteración del bucle, justo después de pedir al usuario que adivine el número.
+- Después del bucle while, agrega un bloque if para mostrar mensajes personalizados según la cantidad de intentos.
+  - Si intentos es igual a 1, muestra un mensaje como: "¡Increíble! Adivinaste el número en tu primer intento. Eres un adivinador nato.".
+  - Si intentos es menor o igual a 5, muestra un mensaje como: "¡Felicitaciones! Adivinaste el número en [intentos] intentos. Tienes habilidades para adivinar.".
+  - Si intentos es mayor que 5 y menor o igual a 10, muestra un mensaje como: "¡Bien hecho! Adivinaste el número en [intentos] intentos. Puedes mejorar tus habilidades de adivinación.".
+  - Si intentos es mayor que 10, muestra un mensaje como: "Adivinaste el número en [intentos] intentos. Sigue practicando, ¡el siguiente desafío te espera!".
+- Ejecuta el código y verifica si los mensajes se muestran correctamente según la cantidad de intentos.
+
+Recuerda que puedes experimentar y agregar tus propios mensajes personalizados relacionados con el acto de adivinar. ¡Diviértete programando y sigue practicando tus habilidades en JavaScript!
+No dudes en consultar si tienes alguna pregunta adicional. ¡Buena suerte!
