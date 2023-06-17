@@ -4,7 +4,11 @@ En esta primera clase, exploraremos los conceptos básicos de JavaScript, un len
 
 ## Contenido
 
-1. *Variables*: Las variables son contenedores que nos permiten almacenar y manipular datos en JavaScript. Podemos declarar una variable utilizando la palabra clave `var`, `let` o `const`. Por ejemplo:
+1. *Variables*:
+
+![Variables](https://yosoy.dev/wp-content/uploads/2014/08/variables-en-programacion.png)
+
+Las variables son contenedores que nos permiten almacenar y manipular datos en JavaScript. Podemos declarar una variable utilizando la palabra clave `var`, `let` o `const`. Por ejemplo:
 
 ```javascript
 var nombre = "Juan";
