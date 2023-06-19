@@ -1,4 +1,4 @@
-# Curso de Programación en JavaScript
+# Curso de Práctico de JavaScript + HTML + CSS para principiantes
 
 ¡Bienvenidos al Curso de Programación en JavaScript! En este repositorio encontrarás los materiales y ejercicios correspondientes a cada una de las clases del curso. El objetivo de este curso es proporcionarte los conocimientos básicos y fundamentales de JavaScript para que puedas desarrollar aplicaciones web interactivas.
 
@@ -61,4 +61,4 @@ Además de los materiales proporcionados en este repositorio, te recomendamos ex
 - [W3Schools](https://www.w3schools.com/): Tutoriales y ejemplos prácticos de JavaScript, HTML y CSS.
 - [Codecademy](https://www.codecademy.com/learn): Cursos interactivos en línea para aprender JavaScript, HTML y CSS.
 
-¡Disfruta del curso y feliz aprendizaje! Si tienes alguna pregunta, no dudes en crear un problema en el repositorio o contactarnos directamente.
+¡Disfruta del curso y feliz aprendizaje! Si tienes alguna pregunta, no dudes en crear un problema en el repositorio o contactarme directamente.
